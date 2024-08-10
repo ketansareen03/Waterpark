@@ -1,0 +1,36 @@
+#sec1{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(assets/carousel-1.jpg); background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#p1{
+    font-weight: bold;
+    color: white;
+    font-size: 8vh;
+    text-transform: uppercase;
+}
+
+#p2{
+    color: white;
+}
+
+#form1{
+    background: rgba(220, 215, 215, 0.3);
+    padding: 7vh;
+}
+
+#seccol1{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(assets/feature-1.jpg);
+    min-height: 45vh;
+}
+
+#seccol2{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(assets/feature-2.jpg);
+    min-height: 45vh;
+}
+
+#seccol3{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(assets/feature-3.jpg);
+    min-height: 45vh;
+}
